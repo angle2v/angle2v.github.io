@@ -8,6 +8,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# Blog Post
+## My first Blog Post
+* Post1
+* Post2
+* Post3
+
 ```markdown
 Syntax highlighted code block
 
