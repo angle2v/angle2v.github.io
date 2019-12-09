@@ -75,7 +75,7 @@ module Jekyll
       self.data['title'] = "#{tag_title_prefix}#{tag}"
       self.data['description'] = "An archive of posts tagged #{tag}."
     end
-  end
+  end 
 end
 ```
 
